@@ -1,0 +1,23 @@
+[
+    {
+        "handle": "mi-primera-publicacion",
+        "titulo": "Mi primera publicación",
+        "descripcion": "Este post es mi primera publicación en el blog"
+    },
+    {
+        "handle": "el-perro-baila",
+        "titulo": "El perro baila",
+        "descripcion": "En este post se relata las primeras impresiones al ver un perro bailando"
+    },
+    {
+        "handle": "construccion-de-edificio",
+        "titulo": "Construcción de edificio",
+        "descripcion": "Cerca del día de finalización de la obra han decidido comenzar el proyecto"
+    },
+    {
+        "handle": "soy-tremendo-pro",
+        "titulo": "Soy tremendo pro",
+        "descripcion": "En ocasiones soy alguien muy pro y en otras no lo soy tanto xd"
+    }
+]
+

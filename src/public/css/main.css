@@ -1,0 +1,43 @@
+body {
+    background: #202020;
+    color: white;
+    
+  }
+
+.logo{
+    width: 71px !important;
+    height: auto;
+}
+
+.contenedor-principal{
+    margin: 0 10px 0 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+.nav-link {
+    text-transform: uppercase;
+}
+
+.publicaciones-inicio{
+    font-size: 2rem;
+}
+
+.contenedor-publicaciones{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.carta-publicación{
+    width: 100%;
+    min-width: 300px;
+    max-width: 417px;
+}
